@@ -22,23 +22,23 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tori-create-7991&layout=compact&show_icons=true&theme=gruvbox" />
-  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tori-create-7991&show_icons=true&theme=gruvbox" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tori-create-7991&layout=compact&show_icons=true&theme=gruvbox" />
+  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tori-create-7991&show_icons=true&theme=gruvbox" />
 </p>
 
 ---
 
 ### 📈 Activity
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tori-create-7991&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tori-create-7991&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tori-create-7991&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tori-create-7991&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tori-create-7991&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tori-create-7991&theme=gruvbox)
 
 ---
 
 ### 🏆 Trophy
 
-![trophy](https://github-profile-trophy.vercel.app/?username=tori-create-7991&theme=gruvbox)
+![trophy](https://github-trophies.vercel.app/?username=tori-create-7991&theme=gruvbox)
 
 ---
 
