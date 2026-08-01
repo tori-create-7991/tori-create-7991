@@ -1,52 +1,34 @@
-# Hi there 👋
+# Hi, I'm Ryo Tonegawa 👋
 
+I build and ship software from discovery and design through implementation and operation.
 
----
+要件整理から設計・実装・運用まで、課題を動くソフトウェアにするエンジニアです。
 
-### 🛠 Tech Stack
+## Featured Open Source
 
-**Languages**
+- **[SelectTrans](https://github.com/tori-create-7991/selecttrans)** — Translate selected text instantly on macOS. / 選択したテキストをmacOSですぐに翻訳します。
+- **[SplitVox](https://github.com/tori-create-7991/splitvox)** — Record system audio and microphone separately, transcribe them on-device, and create a speaker-labelled Markdown transcript. / 会議音声とマイクを分離録音し、端末内で文字起こしして話者別Markdownにまとめます。
+- **[transit-mcp](https://github.com/tori-create-7991/transit-mcp)** — Plan Japanese public-transit journeys with a map-based interface in Claude and ChatGPT. / ClaudeやChatGPT上で、地図を見ながら日本の公共交通経路を検索できます。
+- **[browser-profile-router](https://github.com/tori-create-7991/browser-profile-router)** — Open links in the right macOS browser profile using configurable routing rules. / 設定したルールに沿って、リンクを適切なブラウザプロファイルで開きます。
+- **[copy-selected-tab-urls](https://github.com/tori-create-7991/copy-selected-tab-urls)** — Copy highlighted Chrome tab URLs from a popup or keyboard shortcut. / 選択したChromeタブのURLをポップアップやショートカットからまとめてコピーします。
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,py,ruby,html,css)](https://skillicons.dev)
+## Core Strengths
 
-**Frameworks & Libraries**
+- Cloud-native systems on **Google Cloud Platform**
+- Product development with **TypeScript, Next.js, React, and Node.js**
+- Native macOS tools with **Swift**
+- Practical **automation and AI workflows** that connect tools and operations
 
-[![Frameworks & Libraries](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,prisma,rails,django,fastapi)](https://skillicons.dev)
+## Technology Stack
 
-**Databases & DevOps & Tools**
+[![Technology Stack](https://skillicons.dev/icons?i=gcp,ts,nextjs,react,nodejs,py,swift,docker,github)](https://skillicons.dev)
 
-[![Databases & DevOps & Tools](https://skillicons.dev/icons?i=postgres,mysql,redis,docker,aws,github)](https://skillicons.dev)
+## GitHub Activity
 
----
+![GitHub profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tori-create-7991&theme=gruvbox)
 
-### 📊 GitHub Stats
+## Work With Me
 
-<p>
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tori-create-7991&layout=compact&show_icons=true&theme=gruvbox" />
-  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tori-create-7991&show_icons=true&theme=gruvbox" />
-</p>
+For engineering, automation, and collaboration inquiries, visit **[tori-dev.com](https://tori-dev.com/)**.
 
----
-
-### 📈 Activity
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tori-create-7991&theme=gruvbox)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tori-create-7991&theme=gruvbox)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tori-create-7991&theme=gruvbox)
-
----
-
-### 🏆 Trophy
-
-![trophy](https://github-trophies.vercel.app/?username=tori-create-7991&theme=gruvbox)
-
----
-
-<p align="left">
-  <a href="https://github.com/tori-create-7991">
-    <img height="20" src="https://komarev.com/ghpvc/?username=tori-create-7991&color=orange" />
-  </a>
-  <a href="https://github.com/tori-create-7991">
-    <img height="20" src="https://img.shields.io/github/followers/tori-create-7991?label=Follow&logo=github&style=flat&color=orange&labelColor=7B3F00" />
-  </a>
-</p>
+開発・自動化・コラボレーションのご相談は **[tori-dev.com](https://tori-dev.com/)** からどうぞ。
