@@ -25,7 +25,7 @@ I build and ship software from discovery and design through implementation and o
 
 ## GitHub Activity
 
-![GitHub profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tori-create-7991&theme=gruvbox)
+![GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=tori-create-7991&theme=github-compact)
 
 ## Work With Me
 
