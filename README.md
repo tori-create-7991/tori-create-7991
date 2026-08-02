@@ -6,11 +6,11 @@ I build and ship software from discovery and design through implementation and o
 
 ## Featured Open Source
 
-- **[SelectTrans](https://github.com/tori-create-7991/selecttrans)** — Translate selected text instantly on macOS. / 選択したテキストをmacOSですぐに翻訳します。
-- **[SplitVox](https://github.com/tori-create-7991/splitvox)** — Record system audio and microphone separately, transcribe them on-device, and create a speaker-labelled Markdown transcript. / 会議音声とマイクを分離録音し、端末内で文字起こしして話者別Markdownにまとめます。
-- **[transit-mcp](https://github.com/tori-create-7991/transit-mcp)** — Plan Japanese public-transit journeys with a map-based interface in Claude and ChatGPT. / ClaudeやChatGPT上で、地図を見ながら日本の公共交通経路を検索できます。
-- **[browser-profile-router](https://github.com/tori-create-7991/browser-profile-router)** — Open links in the right macOS browser profile using configurable routing rules. / 設定したルールに沿って、リンクを適切なブラウザプロファイルで開きます。
-- **[copy-selected-tab-urls](https://github.com/tori-create-7991/copy-selected-tab-urls)** — Copy highlighted Chrome tab URLs from a popup or keyboard shortcut. / 選択したChromeタブのURLをポップアップやショートカットからまとめてコピーします。
+- **[SelectTrans](https://github.com/tori-create-7991/selecttrans)** — Translate selected text instantly on macOS.<br>選択したテキストをmacOSですぐに翻訳します。
+- **[SplitVox](https://github.com/tori-create-7991/splitvox)** — Record system audio and microphone separately, transcribe them on-device, and create a speaker-labelled Markdown transcript.<br>会議音声とマイクを分離録音し、端末内で文字起こしして話者別Markdownにまとめます。
+- **[transit-mcp](https://github.com/tori-create-7991/transit-mcp)** — Plan Japanese public-transit journeys with a map-based interface in Claude and ChatGPT.<br>ClaudeやChatGPT上で、地図を見ながら日本の公共交通経路を検索できます。
+- **[browser-profile-router](https://github.com/tori-create-7991/browser-profile-router)** — Open links in the right macOS browser profile using configurable routing rules.<br>設定したルールに沿って、リンクを適切なブラウザプロファイルで開きます。
+- **[copy-selected-tab-urls](https://github.com/tori-create-7991/copy-selected-tab-urls)** — Copy highlighted Chrome tab URLs from a popup or keyboard shortcut.<br>選択したChromeタブのURLをポップアップやショートカットからまとめてコピーします。
 
 ## Core Strengths
 
@@ -21,7 +21,7 @@ I build and ship software from discovery and design through implementation and o
 
 ## Technology Stack
 
-[![Technology Stack](https://skillicons.dev/icons?i=gcp,ts,nextjs,react,nodejs,py,swift,docker,github)](https://skillicons.dev)
+![Technology stack: GCP, TypeScript, Next.js, React, Node.js, Python, Swift, Docker, and GitHub](https://skillicons.dev/icons?i=gcp,ts,nextjs,react,nodejs,py,swift,docker,github)
 
 ## GitHub Activity
 
